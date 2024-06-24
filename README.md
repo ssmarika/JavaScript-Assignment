@@ -1,3 +1,3 @@
-# JavaScript-Assignment
+# MERN-Assignment
 
-This repository contains the assignments completed during the JavaScript training course.
+This repository contains the assignments completed during the MERN training course.
